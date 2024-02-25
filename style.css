@@ -1,0 +1,43 @@
+body{
+    background-color: black;
+    margin-top: 20px;
+    font-family: 'Inter', sans-serif;
+    
+}
+
+p{
+    color: white;
+    background-color: rgb(56, 56, 56);
+    padding: 10px;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 5px;
+    font-weight: 700;
+    
+    }
+h1{
+    color: white;
+}
+h6{
+    color: rgb(175, 206, 62);
+}
+
+.container{
+    background-color: rgb(39, 38, 38);
+    
+    width: 500px;
+    margin-left: 30%;
+    margin-top: 70px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+
+}
+h5{
+    color: white;
+    font-weight: 100;
+}
+img{
+    border-radius: 50%;
+}
